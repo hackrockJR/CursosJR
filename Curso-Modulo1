@@ -1,0 +1,101 @@
+Introduccion a la ciberseguridad: 
+
+- ¿Qué es la seguridad informática?
+
+Es el area de la informatica que administra y ejecuta procedimientos de toda la infraestructura informatica que incluye aspectos 
+fisicos y logicos computacional.
+
+Se enfoca en la proteccion del activo mas importante de una empresa : La informacion.
+
+La proteccion de estos activos no depende siempre de software o hardware dedicados a su proteccion. La mayoria de las soluciones
+son administrativas como las politicas de seguridad o procedimientos que deben aplicar los usuarios al momentos de acceder a 
+los activos de la informacion. 
+
+Basandose en los 4 pilares de la seguridad informatica: 
+
+Confidencialidad , integridad, disponibilidad y no repudio. 
+
+
+- Propiedades de la seguridad de la información
+
+
+Confidencialidad , integridad, disponibilidad y no repudio. 
+
+
+- Autenticación vs autorización
+
+Son dos temas fundamentales a entender:
+
+La Autenticacion es la validacion de un usuario o equipo para acceder a un recurso informatico o a un espacion en especifico. 
+
+La autorizcion , a pesar de que un usuario puede tener el acceso a recursos, debera tener tambien autorizacion para acceder
+a los mismos. 
+
+
+- Riego, amenaza y vulnerabilidad
+
+
+El riesgo es la probabilidad de que un activo sea explotado.
+La amenaza es el elemento que vulnera a un activo. 
+La vulnerabilidad es la falta de elemento para proteger el activo. 
+
+Existen otros factores al realizar analisis de riesgo. 
+
+La exposicion es la brecha de vulnerabilidad que permite que una amenaza pueda explotar esta vulnerabiliad.
+La Salvaguarda es la accion que permite eliminar el riesgo. 
+Para mantener la salvaguarda se debe crear protocolos o politicas de seguridad. 
+
+Analisis de riesgo es la evaluacion que permite conocer la exposicion de los activos a distintas amenazas y el impacto
+que podria afectar en el caso de que se lograra explotar.
+
+- Tipo de Hacking
+
+
+Hacker: 
+
+Un concepto mas empleado para dirigirse a los expertos en ciberseguridad. 
+
+Es la persona con habilidades amplias en el conocimiento informatico que es capas de encontrar vulnerabiliades y explotarlas.
+Hace uso de herramientas desarrollado por el o el grupo al que pertenece. 
+No todo los hackers son delincuente. Depende de la etica de la persona. 
+
+Eticos. emplea sus habilidades dependiendo de la autorizacion de los dueños de los activos. 
+
+whitebox
+greybox
+blackbox
+
+Ciberdelincuencia
+  - Ciber terrorismo
+  - script kiddie 
+  - black hacker
+  - hacktivismo
+  
+  Otra manera de clasificarlos es por 
+  
+  white hacker
+    Ethical hacker
+  grey hacker
+    Especialista de seguridad que usa sus conocimietos de seguridad y hacking de una empresa que conoce para luego pwnear su 
+    sistema. 
+  black hacker
+  
+  ciber delincuente que se dedica actos ilicitos por medio de sus conocimientos. 
+  
+
+- El factor humano de la Ciberseguridad
+
+El eslabon mas debil de la seguridad informatica. 
+No existe un firewall que detenga al usuario de cometer errores.
+Es el mas atacado.
+Los errores popularmente se le llama capa 8.
+Los informaticos son tambien vulnerados y pecan de confianza. 
+La gerencias son dificil de cocientizar. 
+Se debe capacitar constantemente. 
+se debe auditar a los usuarios en el cumplimiento de las politicas de seguridad. 
+
+
+
+
+
+
