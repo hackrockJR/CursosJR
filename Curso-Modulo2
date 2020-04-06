@@ -1,0 +1,54 @@
+AMENAZAS Y VULNERABILIDADES
+
+- Exploits
+
+Es la llave para acceder un sistema. 
+
+wiki: es un fragmento de software, fragmento de datos o secuencia de comandos o acciones, 
+utilizada con el fin de aprovechar una vulnerabilidad de seguridad de un sistema de información
+para conseguir un comportamiento no deseado del mismo.
+
+tipos: 
+
+remotos y locales. 
+
+Otro concepto a considerar 
+
+Payload
+
+ En Metasploit tenemos los exploits y los payloads. Un exploit es una vulnerabilidad, y el payload es la carga que se ejecuta 
+ en esa vulnerabilidad , es decir, la carga que activamos a la hora de aprovechar dicha vulnerabilidad .
+
+Un mismo payload puede ser utilizado por distintos exploits y un mismo exploit puede utilizar varios payloads.
+Metasploit tiene sobre 1800 exploits, y más de 1000 payloads. Existen diferentes payloads para cada vulnerabilidad , 
+ya que no tienen por qué existir en una proporción
+
+- El factor humano: Ingeniería social. Phishing
+
+* Ingeneria social: 
+El arte del engaño. 
+ver pelicula de kevin mitnick 
+ver escena de perdedores.
+Se basa en la confianza 
+Tambien puede usar la intimidacion 
+
+Es la tecnica de engañar a una persona para que esta brinde informacion que pueda comprometer la seguridad. 
+
+* Pishing 
+
+Es una tecnica informatica para engañar a una persona haciendose pasar por otro usuario, empresa o proveedor de servicios.
+Algunos medios pueden ser correo, Mensaje de texto, redes sociales, sumplantancion de sitios web.
+
+Se pueden ocultar en imagenes, enlaces , archivos.
+
+
+
+- Vulnerabilidades de contraseñas. Autenticación de doble factor/biométrica
+
+- Malware, Virus, gusanos, bombas lógicas, gusanos, caballos de troya, botnets
+
+- Tipos de ataques informáticos
+
+- Ataques online: Fallos de seguridad perimetral. DoS
+
+- Defectos de software: inyección de código sql, xss, desbordamiento de buffers
