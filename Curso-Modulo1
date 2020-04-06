@@ -63,6 +63,16 @@ Para mantener la salvaguarda se debe crear protocolos o politicas de seguridad.
 Analisis de riesgo es la evaluacion que permite conocer la exposicion de los activos a distintas amenazas y el impacto
 que podria afectar en el caso de que se lograra explotar.
 
+Incidente:
+
+Evento que ha ocurrido de una explotacion de una vulnerabiliad. 
+
+medidas:
+
+1- mitigar.
+2- Eliminar el activo.
+3- compartir el incidente. 
+4- aceptar el riesgo.
 
 
 - Tipo de Hacking
@@ -99,7 +109,16 @@ Ciberdelincuencia
   
   ciber delincuente que se dedica actos ilicitos por medio de sus conocimientos. 
   
-
+  hacking:
+  
+  Ataque web
+  ataque en redes
+  ingenieria social
+  ataque de base de datos
+  ataque sistemas operativos
+  ataques de servicios o puertos
+  zeroday
+  
 - El factor humano de la Ciberseguridad
 
 El eslabon mas debil de la seguridad informatica. 
