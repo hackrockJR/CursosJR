@@ -11,6 +11,21 @@ La proteccion de estos activos no depende siempre de software o hardware dedicad
 son administrativas como las politicas de seguridad o procedimientos que deben aplicar los usuarios al momentos de acceder a 
 los activos de la informacion. 
 
+Los 10 principales son:
+
+1- Seguridad en red.
+2- Proteccion de malware.
+3- Monitoreo
+4- Administracion de incidentes. 
+5- Administracion de usuarios priviligeados.
+6- Control de medios removibles. 
+7- Hardening
+8- Trabajo externo y acceso remoto
+9- conciencia y educacion de usuarios
+10- Analisis de riesgos.
+
+Seguridad basado en capas. 
+
 Basandose en los 4 pilares de la seguridad informatica: 
 
 Confidencialidad , integridad, disponibilidad y no repudio. 
@@ -47,6 +62,8 @@ Para mantener la salvaguarda se debe crear protocolos o politicas de seguridad.
 
 Analisis de riesgo es la evaluacion que permite conocer la exposicion de los activos a distintas amenazas y el impacto
 que podria afectar en el caso de que se lograra explotar.
+
+
 
 - Tipo de Hacking
 
