@@ -49,6 +49,7 @@ a los mismos.
 
 - Riego, amenaza y vulnerabilidad
 
+Primeros pasos, Analisis de riesgo: 
 
 El riesgo es la probabilidad de que un activo sea explotado.
 La amenaza es el elemento que vulnera a un activo. 
@@ -63,17 +64,26 @@ Para mantener la salvaguarda se debe crear protocolos o politicas de seguridad.
 Analisis de riesgo es la evaluacion que permite conocer la exposicion de los activos a distintas amenazas y el impacto
 que podria afectar en el caso de que se lograra explotar.
 
+documentacion: Matriz de riesgo.
+cual es el servicio mas critico?
+Que pasaria si es explotad?
+Quien debe aprobar?
+Que normas debo cumplir?
+
 Incidente:
 
 Evento que ha ocurrido de una explotacion de una vulnerabiliad. 
 
 medidas:
 
-1- mitigar.
-2- Eliminar el activo.
-3- compartir el incidente. 
+1- controlar riesgo.
+2- Eliminar el riesgo
+3- compartir el riesgo. 
 4- aceptar el riesgo.
 
+Usar herramienta msat de microsoft para analisis de riesgo: 
+
+https://docs.microsoft.com/es-es/security-updates/security/technetsecurityherramientadeevaluacindeseguridaddemicrosoftmsat
 
 - Tipo de Hacking
 
